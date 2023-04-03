@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @npp2022
 - 👀 I’m interested in Electric vehicle
-- 🌱 I’m currently learning EV
-- 💞️ I’m looking to collaborate on EV
+- 🌱 I’m currently learning Optimal sizing
+- 💞️ I’m looking to collaborate on Energy storage
 - 📫 How to reach me linkedin facebook
 
 <!---
